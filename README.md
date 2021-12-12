@@ -1,7 +1,7 @@
 # favorite-plugins
 Favorite link plugins
 
-* pub.dev/packages/flutter_colorpicker
+* https://pub.dev/packages/flutter_colorpicker
 * https://github.com/thangmam/smoothratingbar
 * https://github.com/robbyrahmana/flutter_stack_card
 * https://github.com/Lyokone/flutterlocation
